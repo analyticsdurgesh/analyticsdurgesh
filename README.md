@@ -72,6 +72,13 @@ CareerOS is an AI-powered career intelligence platform for resume scoring, optim
 
 </details>
 
+### Public Data Engineering Projects
+
+| Project | What it shows |
+| --- | --- |
+| [DBT Project Pipeline](https://github.com/analyticsdurgesh/DBT-Project-Pipeline) | Snowflake and dbt pipeline for Blinkit retail sales analytics, including raw ingestion, staging, marts, tests, and public-safe config examples |
+| [Snowflake DBT Project](https://github.com/analyticsdurgesh/Snowflake_DBT_Project) | Inside Airbnb analytics engineering project with Snowflake raw loading, dbt staging/intermediate/mart layers, data tests, docs, and a Streamlit dashboard |
+
 ## Measurable Impact
 
 | Outcome | Result |
