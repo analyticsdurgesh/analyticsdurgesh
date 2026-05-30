@@ -13,13 +13,13 @@
   ·
   <a href="https://linkedin.com/in/yadavdurgesh711">LinkedIn</a>
   ·
-  <a href="https://www.datacity.in">Portfolio</a>
+  <a href="https://www.prepnplaced.com">Portfolio</a>
   ·
-  <a href="https://github.com/durgeshyadav1998">GitHub</a>
+  <a href="https://github.com/analyticsdurgesh">GitHub</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=durgeshyadav1998&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=analyticsdurgesh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/badge/Focus-Data%20Engineering-blue" alt="Data Engineering" />
   <img src="https://img.shields.io/badge/AI-Resume%20Intelligence-green" alt="AI Resume Intelligence" />
   <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-orange" alt="Bengaluru, India" />
@@ -140,8 +140,8 @@ CareerOS is an AI-powered career intelligence platform for resume scoring, optim
 ## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=durgeshyadav1998&show_icons=true&hide_border=true&rank_icon=github" alt="Durgesh Yadav GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshyadav1998&layout=compact&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=analyticsdurgesh&show_icons=true&hide_border=true&rank_icon=github" alt="Durgesh Yadav GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analyticsdurgesh&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
 ## What I Like Building
@@ -162,7 +162,7 @@ I am always interested in conversations around data engineering, analytics platf
   <a href="https://linkedin.com/in/yadavdurgesh711">
     <img src="https://img.shields.io/badge/LinkedIn-yadavdurgesh711-blue" alt="LinkedIn" />
   </a>
-  <a href="https://www.datacity.in">
-    <img src="https://img.shields.io/badge/Portfolio-datacity.in-black" alt="Portfolio" />
+  <a href="https://www.prepnplaced.com">
+    <img src="https://img.shields.io/badge/Portfolio-prepnplaced.com-black" alt="Portfolio" />
   </a>
 </p>
