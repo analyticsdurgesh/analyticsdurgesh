@@ -37,6 +37,31 @@ My core edge is the blend of **senior data engineering**, **product analytics**,
 Business problem -> Data model -> Quality layer -> Product workflow -> Measurable outcome
 ```
 
+## Portfolio System Map
+
+```mermaid
+flowchart LR
+    A["Founder Lens<br/>PrepnPlaced.com"] --> B["CareerOS<br/>AI career intelligence"]
+    A --> C["LinkedIn Growth Studio<br/>Content operations"]
+    A --> D["Analytics Portfolio<br/>Snowflake + dbt"]
+
+    B --> B1["Resume parsing<br/>ATS scoring<br/>Interview workflows"]
+    C --> C1["Idea generation<br/>Quality gates<br/>Official API publishing"]
+    D --> D1["Raw ingestion<br/>Staging models<br/>Marts + dashboards"]
+
+    B1 --> E["User outcomes"]
+    C1 --> E
+    D1 --> E
+
+    E --> F["Career clarity<br/>Trusted decisions<br/>Measurable growth"]
+
+    style A fill:#0F172A,color:#fff,stroke:#0EA5E9,stroke-width:2px
+    style B fill:#E0F2FE,stroke:#0284C7,color:#0F172A
+    style C fill:#DCFCE7,stroke:#16A34A,color:#0F172A
+    style D fill:#F8FAFC,stroke:#64748B,color:#0F172A
+    style F fill:#0F172A,color:#fff,stroke:#22C55E,stroke-width:2px
+```
+
 ## Current Build Zone
 
 | Product / Area | What I am building |
