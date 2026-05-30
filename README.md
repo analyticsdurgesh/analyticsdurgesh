@@ -1,57 +1,134 @@
-# Durgesh Yadav
+<h1 align="center">Durgesh Yadav</h1>
 
-Data Engineer and Product Analyst focused on analytics platforms, data quality, BI automation, and applied AI career products.
+<p align="center">
+  <b>Data Engineer II | Product Analyst | AI Career-Tech Builder</b>
+</p>
 
-I build systems that turn complex operational data into decisions people can trust. My work spans large-scale SQL analytics, PySpark pipelines, Databricks lakehouse architecture, KPI/KRI dashboards, and AI-driven resume intelligence products.
+<p align="center">
+  I build analytics systems, data platforms, and AI products that turn complex operational data into trusted business decisions.
+</p>
 
-## Focus Areas
+<p align="center">
+  <a href="mailto:durgeshyadavlkh@gmail.com">Email</a>
+  ·
+  <a href="https://linkedin.com/in/yadavdurgesh711">LinkedIn</a>
+  ·
+  <a href="https://www.datacity.in">Portfolio</a>
+  ·
+  <a href="https://github.com/durgeshyadav1998">GitHub</a>
+</p>
 
-- Data engineering with PySpark, SQL, Databricks, Delta Lake, Airflow, and lakehouse architecture
-- Analytics products for supply chain, ecommerce, retail operations, and finance workflows
-- BI dashboards with Power BI, Tableau, DOMO, Python Dash, and Plotly
-- Data quality frameworks for freshness, completeness, schema validation, and deduplication
-- Applied AI workflows for resume parsing, ATS scoring, resume optimization, and document generation
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=durgeshyadav1998&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Engineering-blue" alt="Data Engineering" />
+  <img src="https://img.shields.io/badge/AI-Resume%20Intelligence-green" alt="AI Resume Intelligence" />
+  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-orange" alt="Bengaluru, India" />
+</p>
 
-## Impact
+---
 
-- Reduced outstanding vendor payments by 14% through stronger validation, reconciliation, and reporting workflows
-- Reduced reconciliation errors by 20% through improved data quality controls
-- Helped lower ecommerce return rates by 15% through root-cause analysis and dashboarding
-- Reduced logistics shipping costs by 12% with analytics-driven cost controls
-- Improved data availability by 17% and enabled near real-time reporting for critical business metrics
-- Built KPI/KRI dashboards and data pipelines for product, supply-chain, and leadership stakeholders
+## About Me
 
-## Featured Project
+I am a Data Engineer and Product Analyst with 4.5+ years of experience across retail, ecommerce, and supply-chain analytics. I specialize in building reliable data pipelines, analytics products, KPI/KRI dashboards, and applied AI workflows.
+
+My strongest work sits at the intersection of data engineering, analytics, and product thinking: taking messy business processes, modeling the data behind them, and turning that into decision systems people actually use.
+
+## Current Focus
+
+- Building AI-powered career workflows through **CareerOS**
+- Designing Databricks and PySpark pipelines for analytics-ready data products
+- Improving data quality with validation, freshness, completeness, schema drift checks, and deduplication
+- Creating KPI/KRI dashboards for product, supply-chain, and leadership teams
+- Applying LLMs to resume parsing, ATS scoring, resume optimization, and document generation
+
+## Featured Work
 
 ### CareerOS
 
-CareerOS is an AI-powered career intelligence platform for resume scoring, optimization, interview preparation, and guided job-search workflows.
+CareerOS is an AI-powered career intelligence platform for resume scoring, optimization, interview preparation, live mock interviews, offer intelligence, and supervised auto-apply workflows.
 
-It combines resume parsing, ATS-style analysis, LLM-assisted rewriting, real-time editing, mock interview workflows, and export-ready resume generation.
+**Why it matters:** job seekers need faster feedback, stronger resume targeting, and a guided system for moving from application to interview readiness.
 
-Core capabilities:
+**Product capabilities:**
 
-- Resume parsing for PDF and DOCX files
-- ATS compatibility scoring across 20+ quality dimensions
-- Keyword matching and role-fit analysis
-- AI-assisted resume optimization
-- Interview preparation and live mock interview workflows
-- PDF/LaTeX-ready resume export
+| Area | Capability |
+| --- | --- |
+| Resume Intelligence | PDF/DOCX parsing, ATS scoring, keyword matching, role-fit analysis |
+| AI Optimization | LLM-assisted rewriting, content improvement, summary and bullet refinement |
+| Interview Prep | Live mock interviews, weakness analytics, preparation roadmap |
+| Career Workflow | Application tracking, salary intelligence, recommendations, auto-apply support |
+| Platform | Next.js, FastAPI, PostgreSQL, Redis, Gemini, WebSockets, RAG-ready architecture |
 
-## Tech Stack
+<details>
+<summary><b>CareerOS product workflow</b></summary>
 
-**Languages and Querying:** Python, SQL, PostgreSQL, Oracle SQL, SQL Server, MySQL  
-**Data Engineering:** PySpark, Spark, Databricks, Delta Lake, ETL/ELT, Airflow, Hadoop, Hive  
-**Cloud and Platforms:** Azure Data Factory, Azure Data Lake, AWS Glue, GCP  
-**Analytics and BI:** Power BI, Tableau, DOMO, Excel, Python Dash, Plotly  
-**AI and NLP:** LLM applications, prompt engineering, resume parsing, keyword extraction, text matching  
-**Engineering Tools:** Git, GitLab, Docker, CI/CD concepts, Jira, VS Code
+1. Upload or create a resume.
+2. Parse resume content into structured candidate data.
+3. Score the resume across ATS, content, formatting, and role-fit dimensions.
+4. Compare against target roles and job descriptions.
+5. Optimize content with AI-assisted suggestions.
+6. Prepare for interviews with guided practice.
+7. Track readiness, applications, and next actions.
 
-## Experience
+</details>
 
-- **Data Engineer II - Data Analytics**, 7-Eleven
-- **Product Analyst**, Target
-- **SE Data Analyst**, Coforge
+## Measurable Impact
+
+| Outcome | Result |
+| --- | ---: |
+| Outstanding vendor payments reduced | 14% |
+| Reconciliation errors reduced | 20% |
+| Ecommerce return rates reduced | 15% |
+| Shipping costs reduced | 12% |
+| Critical data availability improved | 17% |
+| Near real-time reporting enabled | 90% coverage |
+| New pipeline development effort reduced | 30% |
+| Resume optimization manual effort reduced | 80% |
+
+## Technical Toolkit
+
+<details open>
+<summary><b>Data Engineering</b></summary>
+
+`PySpark` `Spark` `Databricks` `Delta Lake` `Medallion Architecture` `ETL/ELT` `Airflow` `Hadoop` `Hive` `Data Modeling` `Data Quality`
+
+</details>
+
+<details open>
+<summary><b>SQL and Analytics</b></summary>
+
+`PostgreSQL` `Oracle SQL` `SQL Server` `MySQL` `Query Tuning` `Indexing` `Sharding` `Root-Cause Analysis` `A/B Analysis` `EDA`
+
+</details>
+
+<details open>
+<summary><b>BI and Visualization</b></summary>
+
+`Power BI` `Tableau` `DOMO` `Excel` `Python Dash` `Plotly` `KPI/KRI Dashboards` `Interactive Reporting`
+
+</details>
+
+<details open>
+<summary><b>AI and Product Engineering</b></summary>
+
+`LLM Applications` `Prompt Engineering` `Resume Parsing` `NLP` `Keyword Extraction` `Text Matching` `ATS Scoring` `AI Product Development`
+
+</details>
+
+<details open>
+<summary><b>Cloud, DevOps, and Collaboration</b></summary>
+
+`Azure Data Factory` `Azure Data Lake` `AWS Glue` `GCP` `Docker` `Git` `GitLab` `CI/CD Concepts` `Jira` `VS Code` `Agile/Scrum`
+
+</details>
+
+## Experience Snapshot
+
+| Role | Organization | Focus |
+| --- | --- | --- |
+| Data Engineer II - Data Analytics | 7-Eleven | Databricks, PySpark, lakehouse architecture, data quality, dashboards |
+| Product Analyst | Target | Ecommerce analytics, KPI/KRI dashboards, SQL optimization, product insights |
+| SE Data Analyst | Coforge | Retail analytics, KPI reporting, stakeholder decision support |
 
 ## Certifications
 
@@ -60,9 +137,32 @@ Core capabilities:
 - AWS Certified Data Analytics
 - Google Certified Data Analyst
 
-## Contact
+## GitHub Activity
 
-- Email: durgeshyadavlkh@gmail.com
-- GitHub: [durgeshyadav1998](https://github.com/durgeshyadav1998)
-- LinkedIn: Add your LinkedIn URL
-- Portfolio: Add your portfolio URL
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=durgeshyadav1998&show_icons=true&hide_border=true&rank_icon=github" alt="Durgesh Yadav GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshyadav1998&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+
+## What I Like Building
+
+- Data products that make operational teams faster and more confident
+- Analytics systems with clear ownership, reliable quality checks, and measurable business value
+- AI workflows that reduce manual effort without hiding the human decision
+- Career-tech products that help people understand, improve, and present their experience better
+
+## Connect
+
+I am always interested in conversations around data engineering, analytics platforms, applied AI, and career-tech products.
+
+<p>
+  <a href="mailto:durgeshyadavlkh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-durgeshyadavlkh%40gmail.com-red" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/yadavdurgesh711">
+    <img src="https://img.shields.io/badge/LinkedIn-yadavdurgesh711-blue" alt="LinkedIn" />
+  </a>
+  <a href="https://www.datacity.in">
+    <img src="https://img.shields.io/badge/Portfolio-datacity.in-black" alt="Portfolio" />
+  </a>
+</p>
