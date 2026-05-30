@@ -1,85 +1,73 @@
-<h1 align="center">Durgesh Yadav</h1>
-
 <p align="center">
-  <b>Data Engineer II | Product Analyst | AI Career-Tech Builder</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,45:0EA5E9,100:22C55E&text=Durgesh%20Yadav&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=Founder-minded%20Data%20Engineer%20building%20AI%20and%20analytics%20products&descAlignY=58&descSize=15" alt="Durgesh Yadav profile banner" />
 </p>
 
 <p align="center">
-  I build analytics systems, data platforms, and AI products that turn complex operational data into trusted business decisions.
+  <a href="mailto:durgeshyadavlkh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-durgeshyadavlkh%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/yadavdurgesh711">
+    <img src="https://img.shields.io/badge/LinkedIn-yadavdurgesh711-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.prepnplaced.com">
+    <img src="https://img.shields.io/badge/Portfolio-prepnplaced.com-16A34A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="mailto:durgeshyadavlkh@gmail.com">Email</a>
-  ·
-  <a href="https://linkedin.com/in/yadavdurgesh711">LinkedIn</a>
-  ·
-  <a href="https://www.prepnplaced.com">Portfolio</a>
-  ·
-  <a href="https://github.com/analyticsdurgesh">GitHub</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=0EA5E9&center=true&vCenter=true&width=900&lines=Senior+Data+Engineer+with+a+product+builder%27s+mindset;Founder+of+PrepnPlaced.com;Building+CareerOS+for+AI-powered+career+growth;Turning+messy+data+into+decision+systems" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=analyticsdurgesh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Engineering-blue" alt="Data Engineering" />
-  <img src="https://img.shields.io/badge/AI-Resume%20Intelligence-green" alt="AI Resume Intelligence" />
-  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-orange" alt="Bengaluru, India" />
+  <img src="https://komarev.com/ghpvc/?username=analyticsdurgesh&label=Profile%20Views&color=0ea5e9&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Role-Senior%20Data%20Engineer-0f172a" alt="Senior Data Engineer" />
+  <img src="https://img.shields.io/badge/Builder-Founder%20%2B%20Product%20Operator-16a34a" alt="Founder and product operator" />
+  <img src="https://img.shields.io/badge/Focus-AI%20CareerTech%20%7C%20Analytics-0284c7" alt="AI CareerTech and analytics" />
 </p>
 
 ---
 
-## About Me
+## Operating Thesis
 
-I am a Data Engineer and Product Analyst with 4.5+ years of experience across retail, ecommerce, and supply-chain analytics. I specialize in building reliable data pipelines, analytics products, KPI/KRI dashboards, and applied AI workflows.
+I build data and AI products like a founder: start from a painful user problem, find the workflow that creates leverage, then engineer the data layer, product loop, and trust system behind it.
 
-My strongest work sits at the intersection of data engineering, analytics, and product thinking: taking messy business processes, modeling the data behind them, and turning that into decision systems people actually use.
+My core edge is the blend of **senior data engineering**, **product analytics**, and **career-tech product building**. I have worked across retail, ecommerce, and supply-chain analytics, and I now use that operator mindset to build systems that help people make better decisions, faster.
 
-## Current Focus
+```text
+Business problem -> Data model -> Quality layer -> Product workflow -> Measurable outcome
+```
 
-- Building AI-powered career workflows through **CareerOS**
-- Designing Databricks and PySpark pipelines for analytics-ready data products
-- Improving data quality with validation, freshness, completeness, schema drift checks, and deduplication
-- Creating KPI/KRI dashboards for product, supply-chain, and leadership teams
-- Applying LLMs to resume parsing, ATS scoring, resume optimization, and document generation
+## Current Build Zone
 
-## Featured Work
-
-### CareerOS
-
-CareerOS is an AI-powered career intelligence platform for resume scoring, optimization, interview preparation, live mock interviews, offer intelligence, and supervised auto-apply workflows.
-
-**Why it matters:** job seekers need faster feedback, stronger resume targeting, and a guided system for moving from application to interview readiness.
-
-**Product capabilities:**
-
-| Area | Capability |
+| Product / Area | What I am building |
 | --- | --- |
-| Resume Intelligence | PDF/DOCX parsing, ATS scoring, keyword matching, role-fit analysis |
-| AI Optimization | LLM-assisted rewriting, content improvement, summary and bullet refinement |
-| Interview Prep | Live mock interviews, weakness analytics, preparation roadmap |
-| Career Workflow | Application tracking, salary intelligence, recommendations, auto-apply support |
-| Platform | Next.js, FastAPI, PostgreSQL, Redis, Gemini, WebSockets, RAG-ready architecture |
+| **PrepnPlaced.com** | Career preparation platform for tech learners and working professionals |
+| **CareerOS** | AI career intelligence system for resumes, interviews, job search, and guided career execution |
+| **LinkedIn Growth Studio** | Private content operations system for compliant AI-assisted LinkedIn publishing |
+| **Analytics Engineering Portfolio** | Public Snowflake, dbt, dashboarding, and data quality projects |
 
-<details>
-<summary><b>CareerOS product workflow</b></summary>
+## Product Builder Profile
 
-1. Upload or create a resume.
-2. Parse resume content into structured candidate data.
-3. Score the resume across ATS, content, formatting, and role-fit dimensions.
-4. Compare against target roles and job descriptions.
-5. Optimize content with AI-assisted suggestions.
-6. Prepare for interviews with guided practice.
-7. Track readiness, applications, and next actions.
+<table>
+  <tr>
+    <td><b>Founder Lens</b></td>
+    <td>I care about user pain, activation, retention, workflows, and business outcomes, not just shipping code.</td>
+  </tr>
+  <tr>
+    <td><b>Data Engineering Lens</b></td>
+    <td>I design reliable pipelines, lakehouse layers, quality checks, and analytics-ready data models.</td>
+  </tr>
+  <tr>
+    <td><b>Analytics Lens</b></td>
+    <td>I turn raw operational data into KPIs, KRIs, root-cause insights, and decision dashboards.</td>
+  </tr>
+  <tr>
+    <td><b>AI Product Lens</b></td>
+    <td>I build LLM-assisted workflows for resume parsing, ATS scoring, content generation, and career intelligence.</td>
+  </tr>
+</table>
 
-</details>
-
-### Public Data Engineering Projects
-
-| Project | What it shows |
-| --- | --- |
-| [DBT Project Pipeline](https://github.com/analyticsdurgesh/DBT-Project-Pipeline) | Snowflake and dbt pipeline for Blinkit retail sales analytics, including raw ingestion, staging, marts, tests, and public-safe config examples |
-| [Snowflake DBT Project](https://github.com/analyticsdurgesh/Snowflake_DBT_Project) | Inside Airbnb analytics engineering project with Snowflake raw loading, dbt staging/intermediate/mart layers, data tests, docs, and a Streamlit dashboard |
-
-## Measurable Impact
+## Signature Outcomes
 
 | Outcome | Result |
 | --- | ---: |
@@ -92,50 +80,75 @@ CareerOS is an AI-powered career intelligence platform for resume scoring, optim
 | New pipeline development effort reduced | 30% |
 | Resume optimization manual effort reduced | 80% |
 
-## Technical Toolkit
+## Featured Products And Projects
 
-<details open>
-<summary><b>Data Engineering</b></summary>
+### CareerOS
 
-`PySpark` `Spark` `Databricks` `Delta Lake` `Medallion Architecture` `ETL/ELT` `Airflow` `Hadoop` `Hive` `Data Modeling` `Data Quality`
+AI-powered career intelligence platform for resume scoring, optimization, interview preparation, offer intelligence, live mock interviews, and supervised job-search workflows.
 
-</details>
+| Layer | Capability |
+| --- | --- |
+| Resume Intelligence | PDF/DOCX parsing, ATS scoring, keyword matching, role-fit analysis |
+| AI Optimization | LLM-assisted rewriting, bullet improvement, summary refinement |
+| Interview System | Live mock interviews, weakness analytics, readiness roadmap |
+| Career Workflow | Application tracking, salary intelligence, recommendations |
+| Platform | Next.js, FastAPI, PostgreSQL, Redis, Gemini, WebSockets, RAG-ready architecture |
 
-<details open>
-<summary><b>SQL and Analytics</b></summary>
+<details>
+<summary><b>How I think about CareerOS</b></summary>
 
-`PostgreSQL` `Oracle SQL` `SQL Server` `MySQL` `Query Tuning` `Indexing` `Sharding` `Root-Cause Analysis` `A/B Analysis` `EDA`
+CareerOS is not just a resume tool. The larger product idea is a career operating system: one place where a candidate can understand where they stand, improve their profile, prepare for interviews, and execute a focused job-search workflow.
 
-</details>
+The product loop is simple:
 
-<details open>
-<summary><b>BI and Visualization</b></summary>
-
-`Power BI` `Tableau` `DOMO` `Excel` `Python Dash` `Plotly` `KPI/KRI Dashboards` `Interactive Reporting`
-
-</details>
-
-<details open>
-<summary><b>AI and Product Engineering</b></summary>
-
-`LLM Applications` `Prompt Engineering` `Resume Parsing` `NLP` `Keyword Extraction` `Text Matching` `ATS Scoring` `AI Product Development`
-
-</details>
-
-<details open>
-<summary><b>Cloud, DevOps, and Collaboration</b></summary>
-
-`Azure Data Factory` `Azure Data Lake` `AWS Glue` `GCP` `Docker` `Git` `GitLab` `CI/CD Concepts` `Jira` `VS Code` `Agile/Scrum`
+1. Diagnose the candidate profile.
+2. Score resume and role fit.
+3. Identify the most important gaps.
+4. Generate better resume and interview assets.
+5. Track applications, readiness, and next actions.
+6. Use data feedback to improve the next iteration.
 
 </details>
 
-## Experience Snapshot
+### Public Data Engineering Work
+
+| Project | Stack | What it proves |
+| --- | --- | --- |
+| [DBT Project Pipeline](https://github.com/analyticsdurgesh/DBT-Project-Pipeline) | Snowflake, dbt, SQL, Python | Retail sales pipeline with raw ingestion, staging, marts, tests, and public-safe config |
+| [Snowflake DBT Project](https://github.com/analyticsdurgesh/Snowflake_DBT_Project) | Snowflake, dbt, Streamlit, Python | Inside Airbnb analytics project with staging/intermediate/mart layers, data tests, docs, and dashboard |
+
+## Technical Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,aws,azure,gcp,docker,git,github,vscode" alt="Core tools" />
+</p>
+
+| Domain | Tools |
+| --- | --- |
+| Data Engineering | PySpark, Spark, Databricks, Delta Lake, Medallion Architecture, ETL/ELT, Airflow |
+| Analytics Engineering | dbt, Snowflake, PostgreSQL, SQL Server, Oracle SQL, MySQL, data modeling |
+| BI And Analytics | Power BI, Tableau, DOMO, Excel, Python Dash, Plotly, KPI/KRI dashboards |
+| AI Products | LLM applications, prompt engineering, resume parsing, NLP, ATS scoring, document workflows |
+| Cloud And DevOps | Azure Data Factory, Azure Data Lake, AWS Glue, GCP, Docker, Git, CI/CD concepts |
+
+## Career Snapshot
 
 | Role | Organization | Focus |
 | --- | --- | --- |
-| Data Engineer II - Data Analytics | 7-Eleven | Databricks, PySpark, lakehouse architecture, data quality, dashboards |
+| Senior Data Engineer / Data Engineer II | 7-Eleven | Databricks, PySpark, lakehouse architecture, supply-chain analytics, data quality |
 | Product Analyst | Target | Ecommerce analytics, KPI/KRI dashboards, SQL optimization, product insights |
 | SE Data Analyst | Coforge | Retail analytics, KPI reporting, stakeholder decision support |
+
+## GitHub Signal
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=analyticsdurgesh&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Durgesh Yadav GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=analyticsdurgesh&hide_border=true&theme=transparent" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analyticsdurgesh&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+</p>
 
 ## Certifications
 
@@ -144,32 +157,29 @@ CareerOS is an AI-powered career intelligence platform for resume scoring, optim
 - AWS Certified Data Analytics
 - Google Certified Data Analyst
 
-## GitHub Activity
+## What I Am Optimizing For
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=analyticsdurgesh&show_icons=true&hide_border=true&rank_icon=github" alt="Durgesh Yadav GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analyticsdurgesh&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
-## What I Like Building
-
-- Data products that make operational teams faster and more confident
-- Analytics systems with clear ownership, reliable quality checks, and measurable business value
-- AI workflows that reduce manual effort without hiding the human decision
-- Career-tech products that help people understand, improve, and present their experience better
+- Building products that create visible user outcomes
+- Designing data systems that are explainable, monitored, and trusted
+- Turning analytics from reporting into product leverage
+- Helping learners and professionals move from confusion to career clarity
 
 ## Connect
 
-I am always interested in conversations around data engineering, analytics platforms, applied AI, and career-tech products.
+I am open to conversations around data engineering, analytics platforms, AI career-tech products, and founder-led product building.
 
-<p>
+<p align="center">
   <a href="mailto:durgeshyadavlkh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-durgeshyadavlkh%40gmail.com-red" alt="Email" />
+    <img src="https://img.shields.io/badge/Start%20a%20conversation-Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Durgesh" />
   </a>
   <a href="https://linkedin.com/in/yadavdurgesh711">
-    <img src="https://img.shields.io/badge/LinkedIn-yadavdurgesh711-blue" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Follow%20my%20work-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.prepnplaced.com">
-    <img src="https://img.shields.io/badge/Portfolio-prepnplaced.com-black" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Explore-PrepnPlaced.com-16A34A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="PrepnPlaced" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22C55E,55:0EA5E9,100:0F172A" alt="Footer wave" />
 </p>
