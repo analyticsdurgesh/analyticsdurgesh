@@ -27,6 +27,46 @@
 
 ---
 
+## Free book: Data Engineering, From Zero to Production &amp; Interview Ready
+
+<table>
+  <tr>
+    <td width="200" valign="top">
+      <a href="https://www.prepnplaced.com/data-engineering-book?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=de_book">
+        <img src="https://www.prepnplaced.com/book/de-book-cover-480.webp" width="190" alt="Data Engineering: From Zero to Production and Interview Ready, book cover" />
+      </a>
+    </td>
+    <td valign="top">
+      <i>The pipeline ran successfully. The numbers were wrong.</i>
+      <p>
+        Most people meet data engineering backwards: a tool first, then another, and six months
+        later they still cannot say what happens between a customer tapping <b>Place Order</b> and
+        that order appearing on a dashboard. This book runs the other way round. It follows one
+        order through a fictional Indian e-commerce company and lets each tool arrive at the moment
+        the story needs it. Kafka when the order database buckles. Spark when a ten-minute script
+        starts taking nine hours. Airflow when there are forty scripts and nobody remembers which
+        one runs first.
+      </p>
+      <p>
+        244 pages, Lecture Zero plus fourteen chapters, ending at the interview loop. Every figure
+        in it was measured rather than asserted, and the code behind each one is in the
+        <a href="https://github.com/analyticsdurgesh/data-engineering-book-field-kit">Field Kit</a>,
+        so you can reproduce it and argue with me.
+      </p>
+      <p>
+        <a href="https://www.prepnplaced.com/data-engineering-book?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=de_book">
+          <img src="https://img.shields.io/badge/Read%20it%20free-244%20pages%20%C2%B7%20PDF-16A34A?style=for-the-badge&amp;logo=bookstack&amp;logoColor=white" alt="Read the book free" />
+        </a>
+        <a href="https://github.com/analyticsdurgesh/data-engineering-book-field-kit">
+          <img src="https://img.shields.io/badge/Field%20Kit-runnable%20code-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="The Field Kit on GitHub" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Operating Thesis
 
 I build data and AI products like a founder: start from a painful user problem, find the workflow that creates leverage, then engineer the data layer, product loop, and trust system behind it.
